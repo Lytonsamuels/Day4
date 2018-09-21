@@ -1,0 +1,1 @@
+This is a python program that sums items in a list that contain integers and list of integers.
